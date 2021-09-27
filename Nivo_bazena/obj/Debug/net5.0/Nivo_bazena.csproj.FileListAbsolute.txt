@@ -1,0 +1,16 @@
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\obj\Debug\net5.0\Nivo_bazena.csproj.AssemblyReference.cache
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\obj\Debug\net5.0\Nivo_bazena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\obj\Debug\net5.0\Nivo_bazena.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\obj\Debug\net5.0\Nivo_bazena.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\obj\Debug\net5.0\Nivo_bazena.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\bin\Debug\net5.0\Nivo_bazena.exe
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\bin\Debug\net5.0\Nivo_bazena.deps.json
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\bin\Debug\net5.0\Nivo_bazena.runtimeconfig.json
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\bin\Debug\net5.0\Nivo_bazena.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\bin\Debug\net5.0\Nivo_bazena.dll
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\bin\Debug\net5.0\ref\Nivo_bazena.dll
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\bin\Debug\net5.0\Nivo_bazena.pdb
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\obj\Debug\net5.0\Nivo_bazena.dll
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\obj\Debug\net5.0\ref\Nivo_bazena.dll
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\obj\Debug\net5.0\Nivo_bazena.pdb
+C:\Users\Nikola\source\repos\Nivo_bazena\Nivo_bazena\obj\Debug\net5.0\Nivo_bazena.genruntimeconfig.cache
